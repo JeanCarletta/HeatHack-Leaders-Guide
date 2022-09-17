@@ -1,6 +1,7 @@
 # Keeping your group safe
 
-Before we explain more about your roles and introduce the content for individual sessions, we want to say something about your role in keeping groups safe.  In community buildings, we often find volunteers doing things that are beyond their physical abilities, especially if they are older.  This is often because as they age, they don't want to admit that they are no longer so strong or steady on their feet.  It's also just part of the "can do" culture in service to the community.  We sympathise, but they can be a danger to themselves, others, and the building itself.  Before the first activity, we've included a short risk assessment that includes some unbendable ground rules.
+Before we explain more about your roles and introduce the content for individual sessions, we want to say something about your role in keeping groups safe.  In community buildings, we often find volunteers doing things that are a stretch for their physical abilities or skills.  It's part of the "can do" culture in service to the community.  We sympathise, but it's important not to let the group do anything risky.  It's simply not worth it for this programme, where definitive investigations need to be left to the professionals anyway.  Before the first activity, we've included a short risk assessment that includes some unbendable ground rules.
+
 
 <!--
 ```{image} TODO.jpg

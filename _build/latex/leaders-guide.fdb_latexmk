@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex leaders-guide.idx"] 1660571061 "leaders-guide.idx" "leaders-guide.ind" "leaders-guide" 1663099826
-  "leaders-guide.idx" 1663099826 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex leaders-guide.idx"] 1660571061 "leaders-guide.idx" "leaders-guide.ind" "leaders-guide" 1663335636
+  "leaders-guide.idx" 1663335636 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
-  "leaders-guide.ind"
   "leaders-guide.ilg"
-["pdflatex"] 1663099825 "leaders-guide.tex" "leaders-guide.pdf" "leaders-guide" 1663099826
+  "leaders-guide.ind"
+["pdflatex"] 1663335635 "leaders-guide.tex" "leaders-guide.pdf" "leaders-guide" 1663335636
   "/etc/texmf/web2c/texmf.cnf" 1651001756 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -239,13 +239,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1651002634 3335518 6adc6008b5aa8e59068108977ab7cdd1 ""
   "jupyterBook.cls" 1650997835 2743 52e249bf26da4a9394954634d2639f42 ""
-  "leaders-guide.aux" 1663099826 12932 a8596101daa321a3053899a08999fe91 "pdflatex"
+  "leaders-guide.aux" 1663335636 12823 02638102fc503ea96cc7d765e1065fc0 "pdflatex"
   "leaders-guide.ind" 1660571061 0 d41d8cd98f00b204e9800998ecf8427e "makeindex leaders-guide.idx"
-  "leaders-guide.out" 1663099826 2777 463078f4ce0eefb88473f4e85965630f "pdflatex"
-  "leaders-guide.tex" 1663099825 50809 45e4a3a8e2de66a624925774573be54e ""
-  "leaders-guide.toc" 1663099826 3198 3ea6b3af2ec5f04c39a6d8da06610993 "pdflatex"
+  "leaders-guide.out" 1663335636 2731 3bb7ac97904d22bfa951bad1e9eb7b0f "pdflatex"
+  "leaders-guide.tex" 1663335634 52870 e77d09aee9112eb4755b6aa071ae0265 ""
+  "leaders-guide.toc" 1663335636 3150 8cf5cb49d0a85a21d2a330e50d4f4969 "pdflatex"
   "sphinx.sty" 1650997834 13276 82c78138249383cc280953c4285ce73f ""
-  "sphinxhighlight.sty" 1663099825 6679 76d10c62e0f0661410b46f5db6118e26 ""
+  "sphinxhighlight.sty" 1663335634 6679 76d10c62e0f0661410b46f5db6118e26 ""
   "sphinxlatexadmonitions.sty" 1650997834 6238 2d867d769abf3f72abc17ef52adff78b ""
   "sphinxlatexcontainers.sty" 1650997834 901 d3a3a1b7b2547f47ade2499350b5c420 ""
   "sphinxlatexgraphics.sty" 1650997834 4840 a9578332b6f3b35e198751fb632c9b79 ""
@@ -260,14 +260,14 @@
   "sphinxlatexstyletext.sty" 1650997834 6177 c18841ce3fafc366cd3b145f8faa4c37 ""
   "sphinxlatextables.sty" 1650997834 21848 2827eb0b11b99b185a8b77317d3e131c ""
   "sphinxmanual.cls" 1650997834 4241 7b0d7a37df7b5715fb0dbd585c52ecdb ""
-  "sphinxmessages.sty" 1663099825 745 3f5fcd6cdd7964ed608767954a8ced6f ""
+  "sphinxmessages.sty" 1663335634 745 3f5fcd6cdd7964ed608767954a8ced6f ""
   "sphinxoptionsgeometry.sty" 1650997834 2061 47bb34b8ed8a78823eb0c886abfb9f4d ""
   "sphinxoptionshyperref.sty" 1650997834 1094 79beb8b8a3f10784f8cce804e0f9d3aa ""
   "sphinxpackagefootnote.sty" 1650997834 13248 e2c77871396275ccf592403f8130f6f2 ""
   (generated)
+  "leaders-guide.pdf"
   "leaders-guide.toc"
-  "leaders-guide.log"
   "leaders-guide.idx"
+  "leaders-guide.log"
   "leaders-guide.out"
   "leaders-guide.aux"
-  "leaders-guide.pdf"

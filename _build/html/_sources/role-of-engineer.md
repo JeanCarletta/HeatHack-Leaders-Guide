@@ -2,7 +2,7 @@
 
 In this programme, the group leader manages the "social" side of the group - organising sessions, introducing topics that the group needs to talk about, and liaising with the property management.  
 
-The engineers take charge of the technical exercises, some work between sessions that makes use of technical information, and asking any questions of our expert advisers or of the network of volunteers, some of whom are very experienced building services engineers. It's useful if they also take on a little of the "social" work, for instance, keeping an eye on the time during the parts of the session they are not leading, writing down anything the group needs to all be able to see, and so on. 
+The engineers take charge of the technical input, some work between sessions that makes use of technical information, and asking any questions of our expert advisers or of the network of volunteers, some of whom are very experienced building services engineers. It's useful if they also take on a little of the "social" work, for instance, keeping an eye on the time during the parts of the session they are not leading, writing down anything the group needs to all be able to see, and so on. 
 
 <!--
 ```{image} TODO.jpg
@@ -10,7 +10,7 @@ The engineers take charge of the technical exercises, some work between sessions
 ```
 -->
 
-Some of the engineers will be operating well away from their core engineering discipline - and we applaud you for that.  We provide reading materials explaining and reinforcing the core concepts.  We give these to everyone involved, but it's particularly useful for you to be comfortable with them.  There will be a chance to ask about them in the training session, but do feel free to ask us about them at any time.  The reading materials include ideas for further reading in case you are interested.  Some of the ideas are very technical.  If you are a building services engineer, you can probably improve on what we say and what we suggest.  We're very happy for you to tell us what we ought to have done.
+Some of the engineers will be operating well away from their core engineering discipline - and we applaud that.  We provide reading materials explaining and reinforcing the core concepts.  We give these to everyone involved, but it's particularly useful for you to be comfortable with them.  There will be a chance to ask about them in the training session, but do feel free to ask us about them at any time.  The reading materials include ideas for further reading in case you are interested.  Some of the ideas are very technical.  If you are a building services engineer, you can probably improve on what we say and what we suggest.  We're very happy for you to tell us what we ought to have done.
 
 During the sessions, it may be that you discover issues in the building where it would be helpful to run further investigations - for instance, issues with heat distribution that require thinking about pumpwork or the pipework sizing and configuration in a more complicated boiler room, or checking whether a wall is insulated.  It's useful to identify and document concerns, but this is where your responsibility stops - if you wish to explore further, we are happy to try to facilitate that, but please be mindful of your time so that you don't feel overburdened.  
 

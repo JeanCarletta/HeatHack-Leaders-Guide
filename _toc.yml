@@ -30,7 +30,3 @@ chapters:
     - file: session3/details/activity.md
     - file: session3/details/takeaways-and-planning.md
 - file: session4/session4.md
-  sections: 
-    - file: session4/details/session-concepts.md
-    - file: session4/details/activity.md
-    - file: session4/details/takeaways-and-planning.md

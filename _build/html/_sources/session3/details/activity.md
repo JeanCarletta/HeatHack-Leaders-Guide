@@ -1,19 +1,16 @@
 # Session Activity - Mapping Building Use
 
-This activity works through how the building is used on typical days to help groups think through what experiences are like for their current users, and give them a structure for thinking about what building changes might make under-used spaces more useful for any unmet needs in the local community.  We have prepared a video showing the activity because it's easier than it sounds when we write it down!  
+This activity works through how the building is used on typical days to help groups think through what experiences are like for their current users, and give them a structure for thinking about what building changes might make under-used spaces more useful for any unmet needs in the local community.  We have prepared a video showing the activity because it's easier than it sounds when we write it down.  
 
-:TODO:  Insert video link and a still image.
 
-   - [Youtube Video - Session 3 Activity](URL)
+   - [Youtube Video - Session 3 Activity](https://youtu.be/avRmxlQUFZY)
 
-<!-- :TODO: nice to have, screenshot of diary
-```{image} session3-video-still.png
+```{image} session3activity-thumb.png
 :alt: still from a video explaining the session 3 activity
 :class: bg-primary mb-1
 :width: 400px
 :align: center
 ```
--->
 
 ## What you need for the activity
 
@@ -21,7 +18,7 @@ For this activity, you will need:
 
 * A large rough drawing of the building’s floorplan. This is easier to produce if you have an architect’s floor plan to start from, but you only need something that indicates the major spaces with entrances and routes to the different spaces.  This is harder for some groups than others!  Don’t fuss over getting it right. It doesn’t need to be to scale.  If you bring a marker pen with you, you can add to it during the session.
 
-* Some “game pieces” that you can use to designate groups of different sizes.  You could use chess pieces with the little ones as small groups and the big ones as big groups, or pennies, 20p pieces, and pound coins.
+* Some “game pieces” that you can use to designate groups of different sizes.  You could use chess pieces, coins, or whatever else you have to hand.  You can either have big pieces mean big groups or just use lots of pieces.  
 
 * the diary that shows what groups are in the building when over a typical week.  If your building use is either very regular or it varies greatly from week to week, you may want to use the actual diary.  Many groups use Google Calendar for this - you may be able to arrange for one person to have access to that or to receive an exported copy.  Be careful about any personal or sensitive details that these diaries can reveal.  For this activity, those aren't needed, but it is useful to know something about the sizes of the groups and whether the people involved have special heating needs, for instance, because they are children, old, or infirm.  We have a diary template that can be used to extract this information so it is easy to use during the session - whether you need it depends on how complicated your building use is. 
 

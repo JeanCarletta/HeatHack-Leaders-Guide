@@ -15,24 +15,23 @@
 \contentsline {section}{\numberline {9.5}Takeaways and Planning}{21}{section.9.5}%
 \contentsline {section}{\numberline {9.6}The Engineer’s Report}{21}{section.9.6}%
 \contentsline {chapter}{\numberline {10}Session 2}{23}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Activity: Building survey}{23}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Takeaways and planning}{24}{section.10.2}%
+\contentsline {section}{\numberline {10.1}Engineer Talk \sphinxhyphen {} Session Concepts}{23}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Activity: Building survey}{23}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Takeaways and planning}{24}{section.10.3}%
 \contentsline {chapter}{\numberline {11}Session 3}{25}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Session Preparation}{25}{section.11.1}%
-\contentsline {section}{\numberline {11.2}What to bring}{25}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Group leader}{25}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Engineer}{25}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Engineer Talk}{25}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Session Activity \sphinxhyphen {} Mapping Building Use}{25}{section.11.6}%
-\contentsline {subsection}{\numberline {11.6.1}What you need for the activity}{26}{subsection.11.6.1}%
-\contentsline {subsection}{\numberline {11.6.2}How to run the activity}{26}{subsection.11.6.2}%
-\contentsline {section}{\numberline {11.7}Takeaways and Planning}{27}{section.11.7}%
+\contentsline {section}{\numberline {11.2}Group leader}{25}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Engineer}{25}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Engineer Talk}{25}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Session Activity \sphinxhyphen {} Mapping Building Use}{25}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}What you need for the activity}{26}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}How to run the activity}{26}{subsection.11.5.2}%
+\contentsline {section}{\numberline {11.6}Takeaways and Planning}{27}{section.11.6}%
 \contentsline {chapter}{\numberline {12}Session 4}{29}{chapter.12}%
 \contentsline {section}{\numberline {12.1}Consolidate: use PATH to plan what changes they want to make in the building}{29}{section.12.1}%
 \contentsline {section}{\numberline {12.2}Brainstorming actions}{29}{section.12.2}%
 \contentsline {section}{\numberline {12.3}Plan community engagement event}{29}{section.12.3}%
 \contentsline {section}{\numberline {12.4}What is next for this group – closing}{30}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Session Preparation}{30}{section.12.5}%
-\contentsline {section}{\numberline {12.6}Engineer Talk}{30}{section.12.6}%
-\contentsline {section}{\numberline {12.7}Activity}{30}{section.12.7}%
-\contentsline {section}{\numberline {12.8}Takeaways and Planning}{30}{section.12.8}%
+\contentsline {section}{\numberline {12.5}Engineer Talk}{30}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Activity}{30}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Takeaways and Planning}{30}{section.12.7}%
