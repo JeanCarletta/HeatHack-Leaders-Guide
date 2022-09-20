@@ -1,3 +1,3 @@
-# Session 1 - Basic concepts
+# Session 1
 
 Session 1 introduces some core concepts that affect the big decisions building operators need to make - thermal comfort, or what makes people comfortable, is a big part of this, as is thinking about the right strategy for heating and preserving your building.  The session also makes a start at collecting technical data for the building by deciding on a strategy for collecting temperature and relative humidity data as well as energy meter readings.  In addition, there are some activities to help ease group members into thinking about this topic and get used to working with each other. Like all sessions, it ends by identifying what actions need to be taken next to move things forward.
