@@ -7,3 +7,4 @@ In this first release of the guide, session 1 is worked out in detail, and parts
 Not everything is complete or correct for sessions 2-4.  We still need to determine what goes directly on the schedules and what should be put here so there may be some redundancy.
 
 
+
