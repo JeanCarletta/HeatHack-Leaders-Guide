@@ -1,0 +1,519 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>The Structure of a Session &#8212; Leaders&#39; Guide</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Keeping your group safe" href="safety.html" />
+    <link rel="prev" title="The group process" href="group-process.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/heat_hack_logo1.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Leaders' Guide</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Leaders’ guide
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="group-process.html">
+   The group process
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   The Structure of a Session
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="safety.html">
+   Keeping your group safe
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="complex-sites.html">
+   Dealing with complex sites
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="group-leadership.html">
+   What does the group leader do?
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="role-of-engineer.html">
+   The engineer’s role
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="profile.html">
+   Documenting the project
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="feedback.html">
+   Contacting us
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="expenses.html">
+   Expenses
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="session1/session1.html">
+   Session 1 - Basic concepts
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session1/details/session-concepts.html">
+     Engineer Talk - Session Concepts
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session1/details/activity.html">
+     Activity:  Building orientation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session1/details/takeaways-and-planning.html">
+     Takeaways and Planning
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session1/details/engineers-report.html">
+     The Engineer’s Report
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="session2/session2.html">
+   Session 2
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session2/details/session-concepts.html">
+     Engineer Talk - Session Concepts
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session2/details/first-activity.html">
+     Activity:  Building survey
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session2/details/second-activity.html">
+     Activity:  The “game”
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session2/details/takeaways-and-planning.html">
+     Takeaways and planning
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="session3/session3.html">
+   Session 3
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session3/details/session-concepts.html">
+     Engineer Talk - Problems with controlling heating in community spaces
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="session3/details/activity.html">
+     Session Activity - Mapping Building Use
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/JeanCarletta/HeatHack-Leaders-Guide/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/JeanCarletta/HeatHack-Leaders-Guide//issues/new?title=Issue%20on%20page%20%2Fwhat-sessions-are-like.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/what-sessions-are-like.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>The Structure of a Session</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="the-structure-of-a-session">
+<h1>The Structure of a Session<a class="headerlink" href="#the-structure-of-a-session" title="Permalink to this headline">#</a></h1>
+<p>For each session, we have prepared a detailed schedule outlining the activities and how to lead them, so that you can see everything at a glance.  You can find these schedules on our Google Drive.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://drive.google.com/drive/folders/1giDUTY_4KuOFcrWe3FJIShxj31p82MQv">Session Schedules</a></p></li>
+</ul>
+<p>The schedule shows whether the group leader or the engineer should take charge for each item.  Whichever person isn’t in charge would ordinarily then keep an eye on the time and might assist, for instance, by writing things where people can see them.  You can agree on any assistance quickly as preparation before a session.</p>
+<p>This guide describes each of the items on the summary sheets in a little more detail, giving instructions about how to run them and some tips that will help ensure everyone contributes and things run smoothly.</p>
+<p>We won’t have much to say in this guide about some of the smaller items, apart from describing the general pattern:</p>
+<ul class="simple">
+<li><p><strong>Icebreakers.</strong>  These are designed to get people’s heads into the room on gently onto the topic, and to be something very brief where everyone can contribute, as a subtle reminder that even the shy or those who don’t feel they are “experts” still have an important role to play here.  It’s not important to remember what was said. It’s good practice for the group leader to model good behaviour by giving a brief answer as the first response and to keep it moving by not allowing anyone to speak at length.  You’ll want to avoid replying to the comments people make, and discourage responses from others, too.  An icebreaker isn’t a discussion, but a sharing without comment.</p></li>
+<li><p><strong>Group agreement.</strong> In the first session, the icebreaker is followed by an explanation of the group agreement. In subsequent sessions, you only need to remind the members that the group agreement exists.</p></li>
+<li><p><strong>Preparing to learn in pairs or as a whole group.</strong>  We tend to have short items where people have a conversation to get their heads further into a topic by describing something they already know about, often to do with their home or past experience. This is often done in pairs, because many people find this less daunting than speaking in front of the whole group.  In the later sessions, people have usually “warmed up” a bit.  As group leaders, you can’t hear what happens in the pairs, and that’s OK.  Don’t hover, as there’s no need to intervene unless people have questions.  If the group has an odd number of people, the leader or the engineer can take a break! These items just get the group ready to deal with new concepts.  It is a given that some people in the group will prefer the whole group talking and that others will prefer the paired work, so it is good to do both in a session</p></li>
+<li><p><strong>Idea storms.</strong>  These are whole group activities, but here the goal is to get as many ideas out as possible during the time without evaluating them.  For these, we recommend the group leader manage the group, and the engineer write down the ideas, either on a flipchart or by typing them into a document while projecting.   Some group members may struggle to be clear in their contributions or dominate, usually with the best of intentions - there are tricks you can use to make things smoother, like making it clear when there is 10 minutes/5 minutes/2 minutes to go; interrupting and summarising what you think the sense of the group is on the topic and asking other group members to confirm that; or asking if anyone who hasn’t spoken for a while has anything to say. We will cover some of these tips in the group leader training.</p></li>
+<li><p><strong>Engineer talks.</strong> These are short talks that introduce new concepts to the groups that are important for the work they will be doing during the session.  We provide a storyline for these talks and suggestions about how to give them. We know engineers will choose to do these different ways - at the engineer training we go through the basic points to make and ask what support they want in order to feel comfortable with this!  There is also always a chance for group members to ask questions.</p></li>
+<li><p><strong>Activities.</strong> This is where the bulk of the groups’ exploration lies. These are specifically designed for each individual purpose but they allow the group to apply to the premises the concepts that the engineer has explained, recording the results.  Together, they build up to a proposed plan - the outcome of the group.  Remember to document as much as possible.  Photographs can be a quick and easy way to show the result of an activity.</p></li>
+<li><p><strong>Making decisions as a group.</strong> Sometimes the group needs to decide on actions to be taken before the next session - some of these are needed as preparation, and some of them might be voluntary agreement of extra things they want to do to understand some aspect of the building and how they use it that they think might be problematic. Running these items is much like chairing regular meetings.  Some of the same tips apply as for idea storms.  If you are struggling to summarise the sense of the group, a good approach is asking if anyone else can.</p></li>
+<li><p><strong>Wrap up.</strong> This We’d be grateful if at the ends of sessions you could remind group members that there is an feedback form they can use to tell us how they found the session, including what was useful and what wasn’t.</p></li>
+</ul>
+<p>If you have anything we need to urgently fix, please email <a class="reference external" href="mailto:director&#37;&#52;&#48;heathack&#46;org">director<span>&#64;</span>heathack<span>&#46;</span>org</a> or <a class="reference external" href="mailto:pam&#37;&#52;&#48;surefoot-effect&#46;com">pam<span>&#64;</span>surefoot-effect<span>&#46;</span>com</a> or fill in the “urgent feedback” form.  We are happy to take this feedback any way it comes to us - we want the programme to improve.</p>
+<ul class="simple">
+<li><p><span class="xref myst">Urgent Feedback Form</span></p></li>
+</ul>
+<p>There will be an evaluation form we ask you and group members to fill in after the third session.</p>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="group-process.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">The group process</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="safety.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Keeping your group safe</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Jean Carletta<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
