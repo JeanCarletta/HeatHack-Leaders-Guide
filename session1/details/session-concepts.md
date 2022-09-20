@@ -1,27 +1,34 @@
 # Engineer Talk - Session Concepts
 
-This week's engineer talk lays out some basic concepts that it is important for the group to understand, because they affect which of two major paths a community building might take in future.
+This week's engineer talk lays out some basic concepts that it is important for the group to understand, because they affect which of two major paths a community building might take in future.  The talk is about why we heat buildings, and especially, what makes people feel comfortable.  
 
-:TODO: fundamentals of the talk - What is your building good for?
+At the first training session for engineers, we will be showing a couple of ways we could support them giving these talks and ask them what exactly they want us to provide so that they'll feel comfortable with this.  So far, this is the wrong way to provide it, in script form.
 
-You will be expecting the programme to be about what to do to your buildings - and it is.  But before you consider that, you have to think about how it is designed and how you intend to use it in future.
+## Script form of talk
 
-Payback is too slow for heat loss mitigations on a building you don't use often, and can't get grants because the community amenity is less.
+You will be expecting the programme to be about what to do to your buildings - and it is.  But before we do that, because heating is the biggest use of energy in a community building, we need to talk first about the main reason why we heat buildings, to make people comfortable.
 
-The majority of the UK's community buildings are older, traditionally built, and in stone. They are also often not in full use.  This raises an issue.  Stone buildings are excellent at damping down the extremes in outside temperature - making it cooler inside during the day/in the spring and warmer inside at night/in the autumn than it would be in a more reactive building - but they are extremely difficult to make warm for a short time.  On the other hand, once the stones are warm, they cool down slowly.  They also are more expensive and more difficult to retrofit with heat loss mitigations, with some uncertainty about the safe ways to do things.
+When people feel too cold, the first thing they think about is the air temperature.  Air temperature does matter, but research shows that people are fairly adaptable, as long as the air temperature doesn't vary more than around 2C.  Temperature swings make them uncomfortable even if the temperatures look good, because they need to continually adjust.  This is because within reason, they can adjust their clothing levels.
 
-Thermal comfort, effects of surface temperatures, draughts, damp - gives us a way out - localised heating for the people in the space rather than the space heating we're accustomed to.  People are pretty adaptable and avoiding draughts (worse the bigger the difference in temperature between inside and outside!) and keeping buildings dry can be the most important things.  
+Air temperature is really only one of six things that affect their thermal comfort.  The average temperature of the surfaces around them - the "mean radiant temperature" - is just as important.  You'll be familiar with how much warmer it feels when the sun comes out.  Modern materials heat up pretty quickly when you turn on central heating, but stone does not.  That means that it's difficult to make a stone building warm and comfortable for occasional use using the kinds of strategies we're used to from homes and offices.  On the other hand, once stone is warm, it stays warm for a long time, which helps in buildings that are occupied a lot, especially at night when the outside temperature drops.  And there are things like infrared panels that operate just like the sun that can help for stone buildings that are infrequently used.  It can also help to put people in direct contact with gentle heating, for instance, with underfloor heating or heated seating.  We need to get more sophisticated in devising strategies for heating our buildings, choosing the right technologies for us.
 
-Promises we need to keep for session 3: "Remind the group of what they learned about localised heating versus space heating, hybrid systems that, for instance, give a low level of background heat and top up with localised solutions, and also about the possibility of reconfiguring the building so it suits community needs better."
+Along with air temperature and mean radiant temperature, draughts are really important.  They're usually relatively cheap to address, but very often get overlooked.
 
-Old list:
+How humid the air is also makes a difference - one of the most critical things you can do to make a building comfortable is make sure it is watertight so it doesn't get damp. 
 
-o Needs to convey the idea that thermal comfort relies not just on air temperatures but also the average of the surrounding surface temperatures, and the surface temperatures in a stone building that is only heated occasionally are always low for comfort.  Stone is a really good material for evening out temperatures over the day and night cycle and over time because of its thermal mass.  For church worship spaces, this is the opposite of what they want – they are coldest at around 8 am and warmest at around 6 pm.
-o Single glazed window surfaces are always cold; if you’re sitting next to one that’s a lot of what influences your comfort.
-o Draughts are also important (including downdraughts off cold windows, a double whammy of discomfort), and damp makes people feel worse.
-o People always think of increasing the air temperature (= thermostat) to make a place more comfortable, but it’s expensive, and more expensive the higher you go.  The way most people run their homes, reducing the thermostat by a degree will save around 10% of the energy/bill.  For most community buildings, it will be more.
-o There are other ways of making people comfortable:
- More clothes!  Temperature expectations only ever go up (and there are requirements for some things, like 16C for registered child care).
- Heat the people, not the space! By making some surface near them a bit warm (under pew heaters, pew cushions) or a farther surface very warm (radiant heaters).
- Make changes to the building so it loses less heat – insulation, and so on - but that's only a reasonable thing to do if you have enough users to justify a grant or other ways of paying the expense, and it's only needed if you use space heating.
- Use the building more so you can justify putting more energy into it, making and keeping? the stone warmer and people more comfortable at the same 
+The final influence is how active people are.  You can't change what people want to do in your buildings, but you do need to take it into account, because they may need to be able to adjust the heating to suit, and without affecting the next group in.  
+
+These six things - air temperature, radiant temperature, draughts, humidity, activity, and clothing levels - are the main things you need to consider when trying to make people comfortable.  
+
+Thermal comfort is the main reason why we heat our buildings, but it isn't the only one.  We also often heat them to preserve the building.  How much heating they require for this depends on the building's situation, what it is made of, and whether it contains things like oil paintings, and is surprisingly contentious, especially for old buildings.  Damp is the enemy, but heating is a very expensive solution for damp - the most important thing is to keep them water-tight and to make sure the building is well-ventilated, especially after people have been in.  Many community buildings turn the heating on a couple of hours a day for good luck, but a much better approach is to ensure the building never gets so cold that condensation is likely to form inside by bringing the heating on gently just then.  As cheap energy becomes a problem, some building conservationists are starting to suggest that some older buildings may not require heating at all, just careful maintenance.
+
+<!-- :TODO: need to say something in the materials about not letting lots of warm air into a cold stone building because there will then be condensation on the inside - but there really isn't time for this kind of detail! -->
+
+<!-- session 2
+Payback is too slow for heat loss mitigations on a building you don't use often, and it's hard to get grants and donations for infrequently used buildings because the community amenity is less.
+-->
+
+<!-- too much detail; insulation is for session 2
+
+Stone buildings are excellent at damping down the extremes in outside temperature - making it cooler inside during the day/in the spring and warmer inside at night/in the autumn than it would be in a more reactive building - but they are extremely difficult to make warm for a short time.  On the other hand, once the stones are warm, they cool down slowly.  They also are more expensive and more difficult to retrofit with heat loss mitigations, with some uncertainty about what's safe to do but also many useful case studies that show techniques that work. The key is ventilation and breatheability - it's critical not to let moisture get trapped in the building.
+-->

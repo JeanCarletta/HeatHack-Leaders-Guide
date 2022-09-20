@@ -1,12 +1,13 @@
 # Takeaways and planning
 
-It's useful to gather the photos for the building profile if you can - at least anything you are uncertain about or that you can't easily describe in text.  You will need to determine how you will collect them together to put them on your cloud storage.  
+It's useful to gather the survey photos for the building profile if you can - at least anything you are uncertain about or that you can't easily describe in text.  You will need to determine how you will collect them together to put them on your cloud storage.  
 
-For the next session, you'll also need either the actual diary showing who is in the spaces for a period where you have collected thermal monitoring data, or a diary that shows typical building use over the course of week, for instance, in this format:
+
+For the next session, you'll also need either the actual diary showing who is in the spaces for a period where you have collected thermal monitoring data, or a diary that shows typical building use over the course of week.  If it's useful, you can use this template for that.  We intend to mark up the temperature plots automatically with times a space is in use for those who use the template, but this doesn't work yet.
 
 - [Google Docs - Building Use Diary Template](https://docs.google.com/spreadsheets/d/1_3UwlKGqtnaVQqrsQDyNMr6MdldH_sSLpiHTBwC7AbQ/)
 
-It's helpful if you can pass the engineer this information ahead of the session.    
+It's helpful if you can pass the engineer this information ahead of session 3.  If you haven't done it already, you will also need to find out the timings for the heating system.
 
 <!-- :TODO: nice to have, screenshot of diary
 ```{image} building-use-diary-template.png
@@ -16,3 +17,14 @@ It's helpful if you can pass the engineer this information ahead of the session.
 :align: center
 ```
 -->
+
+<!-- TODO should we ask them to fill out any kind of form this week about the building?  Or get passed information ahead of the next session and pre-fill what they can about the building's glazing etc from the documentation?  -->
+
+If no better source of information exists, it would be helpful if the engineer could produce a brief report about the building documenting the aspects of the photographic survey.
+
+
+:TODO: create a template for it.  But AM's is just free text.  Maybe a ticklist of things to describe:
+
+ - age, number of buildings
+
+ 

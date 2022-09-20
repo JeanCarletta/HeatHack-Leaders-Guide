@@ -1,11 +1,4 @@
 # The Engineer's Report
 
-brief report about the building, if no better documentation exists
+After this session, it's useful if the engineer can write a brief text documenting the group's thermal monitoring strategy and metering strategy, just so the group can remember and act on it.
 
-:TODO: give them an example from CCM
-
-:TODO: create a template for it?  But AM's is just free text.  Maybe a ticklist of things to describe:
-
- - age, number of buildings
-
- 

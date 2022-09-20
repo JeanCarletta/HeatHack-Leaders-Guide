@@ -1,17 +1,3 @@
 # Session 1 - Basic concepts
 
-Session 1 introduces some core concepts relating to thermal comfort, thermal mass/difficulty if not heating a lot; where heat loss occurs; how cost of addressing that is unaffordable unless building has high occupancy; localised heating vs space heating; what buildings with localised heating really need is to stay dry more than anything, so you need to think about how the moisture gets in there and how to get it out 
-
-:TODO: fix introduction and whatever we need to comment about the contents (for this document).  The summary sheet is what they will actually use during the session.  Session-outlines.docx contains the correct format for this session although it might be too ambitious; this guide does not have the right stuff yet.  Note that the activity is just basic photographs/survey information and e.g. where the worst draughts are in their experence, not attempts to measure anything.
-
-## Special preparation for the facilitator
-
-ask the property manager if there is any documentation of the heating system or any architectural diagrams they can use.  This could take the form of past invoices for work done, documentation or user manuals for equipment.  For churches, architectural diagrams could be in the quinquennial report or in the archives.
-
-Flipchart/big pen, whiteboard, pack of post-it notes, or projector attached to a laptop with a text editor (e.g. Microsoft Word)
-
-## Things for the group to bring
-
-binoculars, opera glasses; smart phones, tablets, or digital cameras.
-
-
+Session 1 introduces some core concepts that affect the big decisions building operators need to make - thermal comfort, or what makes people comfortable, is a big part of this, as is thinking about the right strategy for heating and preserving your building.  The session also makes a start at collecting technical data for the building by deciding on a strategy for collecting temperature and relative humidity data as well as energy meter readings.  In addition, there are some activities to help ease group members into thinking about this topic and get used to working with each other. Like all sessions, it ends by identifying what actions need to be taken next to move things forward.

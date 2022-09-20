@@ -9,7 +9,7 @@ Before we explain more about your roles and introduce the content for individual
 ```
 -->
 
-Don't forget that your leadership of the group gives you a certain status - please strongly reinforce our ground rules during the activities, and make more if there others appropriate to the building. 
+Don't forget that your leadership of the group gives you a certain status - please strongly reinforce our ground rules during the activities, and make more if there others appropriate to the building.   We don't know what these buildings are like and how well they are maintained - be on the look-out for electrical safety issues, moving parts with guardrails, and so on.   
 
 ```{admonition} Ground rules
 :class: tip

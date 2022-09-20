@@ -11,6 +11,7 @@ chapters:
 - file: group-leadership.md
 - file: role-of-engineer.md
 - file: profile.md
+- file: feedback.md
 - file: expenses.md
 - file: session1/session1.md
   sections: 
@@ -21,12 +22,12 @@ chapters:
 - file: session2/session2.md
   sections: 
     - file: session2/details/session-concepts.md
-    - file: session2/details/activity.md
+    - file: session2/details/first-activity.md
+    - file: session2/details/second-activity.md
     - file: session2/details/takeaways-and-planning.md
 - file: session3/session3.md
   sections: 
-    - file: session3/details/preparation.md
     - file: session3/details/session-concepts.md
     - file: session3/details/activity.md
-    - file: session3/details/takeaways-and-planning.md
-- file: session4/session4.md
+#    - file: session3/details/takeaways-and-planning.md
+#- file: session4/session4.md
