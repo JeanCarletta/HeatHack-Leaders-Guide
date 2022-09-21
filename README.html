@@ -50,8 +50,6 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
-    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
-    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -428,24 +426,14 @@ title="Print to PDF"
 <h1>HeatHack-Leaders-Guide<a class="headerlink" href="#heathack-leaders-guide" title="Permalink to this headline">#</a></h1>
 <p>Materials for running the group sessions of HeatHack’s structured programme for groups to think about what net zero means for their traditionally-built community buildings</p>
 <p>Written in Jupyter Book.</p>
-<p>Intended workflow (Simplified GitFlow with developers working on one branch):</p>
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>      dev         - author materials here; there isn&#39;t much chance we&#39;ll conflict but push often
-       |
-       |
-       |
-      main        -  when materials are ready to build into website, copy that part into main (see below).
+<p>Work in a separate feature or bugfix branch.</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>      main        -  when materials are ready to build into website, copy that part into main (see below).
        |
        |
        |
     gh-pages      - complete derivative branch produced automatically, do not edit; contains website
 </pre></div>
 </div>
-<p>If we end up with conflicts (unlikely) then we can use feature branches, merging them into dev and then into main.</p>
-<p>To copy a part into main, make sure dev on the origin is up to date.  Then switch to the main branch.</p>
-<p>(main)<span class="math notranslate nohighlight">\( git checkout origin/dev -- path-to-part
-(main)\)</span> git checkout origin/dev – _toc.yml      # to get the table of contents changes</p>
-<p>then add, commit, push as usual.  Once all parts are ready for building main will become more like a traditional main branch but until then, many commits on dev could remain unpulled.</p>
-<p>There is a table of contents at the top level covering everything, but also individual table of contents for use during development that just build individual sections.</p>
 </section>
 
     <script type="text/x-thebe-config">
