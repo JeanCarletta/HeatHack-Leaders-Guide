@@ -1,10 +1,10 @@
 # Contacting us 
 
-We are happy for you to tell us anything you think we should know, or ask us questions, at any time.
+We are happy for you to tell us anything you think we should know, or ask us questions, at any time.  If you have feedback about the sessions and want to help us improve the programme, the easiest way is to fill in a feedback form:
 
-If you need us to fix something urgently, you can use the "urgent feedback" form.
+- [Leader and Engineer Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSelF7T0pEaX2-UD-kBIGJ9_AKjKSBzyn9gKfhPW7MJgZEvSzQ/viewform)
 
-- [Urgent Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSelF7T0pEaX2-UD-kBIGJ9_AKjKSBzyn9gKfhPW7MJgZEvSzQ/viewform)
+If you need us to fix something urgently, please just email us.
 
 After session 3, we'd be grateful if you could ask participants to fill in the programme evaluation form.
 
