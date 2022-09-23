@@ -1,8 +1,10 @@
 # Engineer Talk - Session Concepts
 
-This week's engineer talk lays out some basic concepts that it is important for the group to understand, because they affect which of two major paths a community building might take in future.  The talk is about why we heat buildings, and especially, what makes people feel comfortable.  
+This week's engineer talk lays out some basic concepts that it is important for the group to understand, because they affect which of two major paths a community building might take in future.  The talk is about why we heat buildings, and especially, what makes people feel comfortable.  After a discussion with our first set of engineers, we provide simple bullet points for the talk, a memory aid list of the six elements of thermal comfort, and a few details that could be useful.  
 
-At the first training session for engineers, we will be showing a couple of ways we could support them giving these talks and ask them what exactly they want us to provide so that they'll feel comfortable with this.  
+If you would like more support than this, please ask - we'll be happy to provide what you need.  We can write up just a bit more further information with technical links as required, for instance, see
+
+- [HeatHack Reading Materials - Thermal Comfort](https://jeancarletta.github.io/HeatHack-Sessions/thermal-comfort/thermal-comfort.html)
 
 ## Bullet points
 
@@ -34,8 +36,23 @@ At the first training session for engineers, we will be showing a couple of ways
 
 - What about the building?  Take advice – if they aren’t damp, some of them will be just fine.  Others need a minimum temperature kept.
 
+## Memory aid
 
-## Slightly more detailed and techier "script" version
+- six components of thermal comfort (from the ASHRAE standard)
+
+  - air temperature
+  - mean radiant temperature (what we're calling "surrounding surfaces", includes sun)
+  - air speed ("draughts")
+  - humidity
+  - metabolic rate (largely, activity level)
+  - clothing level
+
+- BUT people adapt well as long as conditions don't vary too much (<2C)
+
+
+
+<!-- unwanted, if anyone wants it later, check it over first
+## Slightly more detailed and techier "script" version - 
 
 Heating is the biggest use of energy in a community building, so the first thing we need think about it why we heat buildings.  The main reason is to make people comfortable.
 
