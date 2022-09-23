@@ -4,6 +4,8 @@ This week's engineer talk introduces some important things to think about when c
 
 These are this week's talking points:
 
+:TODO: simplify the bullet points. 
+
 - In broad terms, behavioural changes to reduce demand are the first thing to think about, followed by reducing energy waste (for instance, by reducing heat loss or using more efficient heating) and only after this by generating more energy. 
 
 ```{image} CSE-energy-hierarchy.png
@@ -12,6 +14,7 @@ These are this week's talking points:
 :width: 400px
 :align: center
 ```
+
 :TODO:  This CSE pyramid is really badly labelled because it would be easy for readers to think that heating efficiency is about reducing demand - but that puts it before addressing heat loss, which would be the wrong way around.  What can we find that's better?
 
 Where demand can be reduced "without loss of service", changes are usually inexpensive and don't involve buying large items like insulation and solar panels that themselves have a carbon cost - but making these kinds of changes takes understanding what people are doing in your buildings.  Session 3 has an activity that is designed to help the group think about heating controls because this is especially tricky in community buildings and has the potential to waste a large amount of energy.
