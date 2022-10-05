@@ -8,4 +8,4 @@ There are alternatives to Google Drive, such as Dropbox or Microsoft 365 Online 
 
 Where groups aren't confident or happy to work in this way, you will want to find other ways to document what you can. If you think your group could use cloud storage but need us to set it up for you, please contact our administrator.
 
-Thermal monitoring data --- temperature and relative humidity measurements from the monitor that we send you --- is a special case because we have specific methods for collecting it.  We describe how this works in the technology guide, including how to match it to .  If you will be moving your monitor between different locations, you'll find it useful to keep a record of where it was, and when.  We h
+Thermal monitoring data --- temperature and relative humidity measurements from the monitor that we send you --- is a special case because we have specific methods for collecting it.  We describe how this works in the technology guide.
