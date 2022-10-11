@@ -16,6 +16,7 @@ chapters:
 - file: session1/session1.md
   sections: 
     - file: session1/details/session-concepts.md
+    - file: session1/details/case-studies.md
     - file: session1/details/activity.md
     - file: session1/details/takeaways-and-planning.md
     - file: session1/details/engineers-report.md
