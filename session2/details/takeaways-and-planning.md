@@ -20,11 +20,5 @@ It's helpful if you can pass the engineer this information ahead of session 3.  
 
 <!-- TODO should we ask them to fill out any kind of form this week about the building?  Or get passed information ahead of the next session and pre-fill what they can about the building's glazing etc from the documentation?  -->
 
-If no better source of information exists, it would be helpful if the engineer could produce a brief report about the building documenting the aspects of the photographic survey.
+If no better source of information exists, it would be helpful if the engineer could use the photographs to produce a brief report about the building documenting what the group thought was important.  The group leader may be able to list other sources of information to avoid duplication, like whether there are manuals for equipment, a heating system diagram, or technical desscription of the building available.  This is useful both for memory and for engaging professionals later.  You can share the report with us - ask us to set up space on our Google Drive if you need that for storing what you have.
 
-
-:TODO: create a template for it.  But AM's is just free text.  Maybe a ticklist of things to describe:
-
- - age, number of buildings
-
- 
