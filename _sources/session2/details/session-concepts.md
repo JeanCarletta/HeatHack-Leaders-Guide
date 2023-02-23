@@ -16,7 +16,7 @@ This week's engineer talk introduces some important things to think about when c
 
 These are this week's talking points:
 
-- Reduce demand so you need less energy, address heat loss, and generate energy - in that order. 
+- Reduce demand so you need less energy, address heat loss, and generate energy - in that order. (By "reduce demand", we mean thinking about when you are putting energy into the building and whether that is doing useful work for you.)
 
 - The less a building is used, the harder it is to afford to make major building changes or to get grants. 
 

@@ -1,4 +1,4 @@
-# Session Activity - Mapping Building Use
+# Activity - Mapping Building Use
 
 This activity works through how the building is used on typical days to help groups think through what experiences are like for their current users, and give them a structure for thinking about what building changes might make under-used spaces more useful for any unmet needs in the local community.  We have prepared a video showing the activity because it's easier than it sounds when we write it down.  
 
