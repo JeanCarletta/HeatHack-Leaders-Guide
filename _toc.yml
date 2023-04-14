@@ -18,6 +18,9 @@ chapters:
     - file: session1/details/session-concepts.md
     - file: session1/details/case-studies.md
     - file: session1/details/activity.md
+      sections: 
+        - file: session1/details/activity/thermal-monitoring.md
+        - file: session1/details/activity/meters.md
     - file: session1/details/takeaways-and-planning.md
     - file: session1/details/engineers-report.md
 - file: session2/session2.md
